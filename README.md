@@ -11,7 +11,7 @@ Zihao Liu, [Xiaolong Shen](https://scholar.google.com/citations?user=vAMMc8EAAAA
 <p>
   <a href="https://hayd-zju.github.io/Beyond-Pixels/"><img src="https://img.shields.io/badge/Project-Page-1F2937?style=flat&amp;logo=googlechrome&amp;logoColor=white" alt="Project Page"></a>
   <a href="#release-status"><img src="https://img.shields.io/badge/arXiv-Soon-B31B1B?style=flat&amp;logo=arxiv&amp;logoColor=white" alt="arXiv coming soon"></a>
-  <a href="#release-status"><img src="https://img.shields.io/badge/%E2%96%A4_PDF-Soon-4B5563?style=flat&amp;logoColor=white" alt="PDF coming soon"></a>
+  <a href="https://hayd-zju.github.io/Beyond-Pixels/paper.pdf"><img src="https://img.shields.io/badge/%E2%96%A4_PDF-Available-1F2937?style=flat&amp;logoColor=white" alt="PDF"></a>
   <a href="#release-status"><img src="https://img.shields.io/badge/Code-Soon-181717?style=flat&amp;logo=github&amp;logoColor=white" alt="Code coming soon"></a>
   <a href="#release-status"><img src="https://img.shields.io/badge/Hugging_Face-Soon-EAB308?style=flat&amp;logo=huggingface&amp;logoColor=111827" alt="Hugging Face coming soon"></a>
   <a href="#release-status"><img src="https://img.shields.io/badge/ModelScope-Soon-6256D9?style=flat&amp;logo=modelscope&amp;logoColor=white" alt="ModelScope coming soon"></a>
@@ -68,7 +68,8 @@ Interactive results are available on the [project page](https://hayd-zju.github.
 | Resource | Status |
 | --- | --- |
 | Project page | Available |
-| arXiv and PDF | Paper under revision |
+| arXiv | Submitted; public link pending |
+| [PDF](https://hayd-zju.github.io/Beyond-Pixels/paper.pdf) | Available |
 | Source code | Planned |
 | Model checkpoints | Planned |
 | Hugging Face and ModelScope | Planned |
