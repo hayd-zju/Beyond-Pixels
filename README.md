@@ -31,13 +31,10 @@ Zihao Liu, [Xiaolong Shen](https://scholar.google.com/citations?user=vAMMc8EAAAA
 
 ## 🚧 TODO List
 
-- [x] [Project Page](https://hayd-zju.github.io/Beyond-Pixels/)
-- [x] [PDF](https://hayd-zju.github.io/Beyond-Pixels/paper.pdf)
-- [ ] arXiv (submitted; public link pending)
-- [ ] Source Code
-- [ ] Model Checkpoints
-- [ ] Hugging Face Release
-- [ ] ModelScope Release
+- [x] [Demos](https://hayd-zju.github.io/Beyond-Pixels/)
+- [ ] Inference Code
+- [ ] Training Code
+- [ ] Pretrained Weights
 
 ## 📚 Citation
 
