@@ -25,23 +25,20 @@ Zihao Liu, [Xiaolong Shen](https://scholar.google.com/citations?user=vAMMc8EAAAA
 
 > **TL;DR:** Beyond Pixels provides a reusable latent-to-4D interface that lifts terminal video DiT latents into explicit dynamic 3D scenes across compatible generation tasks.
 
-## News
+## 🔥 News
 
 - **[2026/08/11]** The official repository and project page are available. Code and model release are under preparation.
 
-## Release Status
+## 🚧 TODO List
 
-| Resource | Status |
-| --- | --- |
-| Project page | Available |
-| arXiv | Submitted; public link pending |
-| [PDF](https://hayd-zju.github.io/Beyond-Pixels/paper.pdf) | Available |
-| Source code | Planned |
-| Model checkpoints | Planned |
-| Hugging Face and ModelScope | Planned |
+- [x] [Project Page](https://hayd-zju.github.io/Beyond-Pixels/)
+- [x] [PDF](https://hayd-zju.github.io/Beyond-Pixels/paper.pdf)
+- [ ] arXiv (submitted; public link pending)
+- [ ] Source Code
+- [ ] Model Checkpoints
+- [ ] Hugging Face Release
+- [ ] ModelScope Release
 
-We will update this repository when the corresponding materials are ready. No release date is announced at this stage.
-
-## Citation
+## 📚 Citation
 
 Citation information will be added after the arXiv release.
