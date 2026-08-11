@@ -9,7 +9,7 @@ Zihao Liu, [Xiaolong Shen](https://scholar.google.com/citations?user=vAMMc8EAAAA
 <sup>*</sup>Corresponding author
 
 <p>
-  <a href="https://hayd-zju.github.io/"><img src="https://img.shields.io/badge/Project-Page-1F2937?style=flat&amp;logo=googlechrome&amp;logoColor=white" alt="Project Page"></a>
+  <a href="https://hayd-zju.github.io/Beyond-Pixels/"><img src="https://img.shields.io/badge/Project-Page-1F2937?style=flat&amp;logo=googlechrome&amp;logoColor=white" alt="Project Page"></a>
   <a href="#release-status"><img src="https://img.shields.io/badge/arXiv-Soon-B31B1B?style=flat&amp;logo=arxiv&amp;logoColor=white" alt="arXiv coming soon"></a>
   <a href="#release-status"><img src="https://img.shields.io/badge/%E2%96%A4_PDF-Soon-4B5563?style=flat&amp;logoColor=white" alt="PDF coming soon"></a>
   <a href="#release-status"><img src="https://img.shields.io/badge/Code-Soon-181717?style=flat&amp;logo=github&amp;logoColor=white" alt="Code coming soon"></a>
@@ -61,7 +61,7 @@ The same latent-to-4D pathway supports a broad range of compatible video-generat
 - Controllable 4D character animation
 - Action-conditioned 4D world simulation
 
-Interactive results are available on the [project page](https://hayd-zju.github.io/#interactive).
+Interactive results are available on the [project page](https://hayd-zju.github.io/Beyond-Pixels/#interactive).
 
 ## Release Status
 
