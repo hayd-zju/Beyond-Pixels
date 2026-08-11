@@ -8,13 +8,18 @@ Zihao Liu, [Xiaolong Shen](https://scholar.google.com/citations?user=vAMMc8EAAAA
 
 <sup>*</sup>Corresponding author
 
-<p>
-  <a href="https://hayd-zju.github.io/"><img src="https://img.shields.io/badge/Project-Page-1F2937?style=flat&amp;logo=googlechrome&amp;logoColor=white" alt="Project Page"></a>
-  <a href="#release-status"><img src="https://img.shields.io/badge/arXiv-Soon-B31B1B?style=flat&amp;logo=arxiv&amp;logoColor=white" alt="arXiv coming soon"></a>
-  <a href="#release-status"><img src="https://img.shields.io/badge/PDF-Soon-4B5563?style=flat&amp;logo=adobeacrobatreader&amp;logoColor=white" alt="PDF coming soon"></a>
-  <a href="#release-status"><img src="https://img.shields.io/badge/Code-Soon-181717?style=flat&amp;logo=github&amp;logoColor=white" alt="Code coming soon"></a>
-  <a href="#release-status"><img src="https://img.shields.io/badge/Hugging_Face-Soon-EAB308?style=flat&amp;logo=huggingface&amp;logoColor=111827" alt="Hugging Face coming soon"></a>
-  <a href="#release-status"><img src="https://img.shields.io/badge/ModelScope-Soon-6256D9?style=flat&amp;logo=alibabacloud&amp;logoColor=white" alt="ModelScope coming soon"></a>
+<p align="center">
+  <a href="https://hayd-zju.github.io/">↗ Project Page</a>
+  &nbsp;·&nbsp;
+  <a href="#release-status"><img src="https://arxiv.org/static/browse/0.3.4/images/icons/favicon-32x32.png" width="17" height="17" align="absmiddle" alt=""> arXiv <sup>Soon</sup></a>
+  &nbsp;·&nbsp;
+  <a href="#release-status">▤ PDF <sup>Soon</sup></a>
+  &nbsp;·&nbsp;
+  <a href="#release-status"><img src="https://github.githubassets.com/favicons/favicon.svg#gh-light-mode-only" width="17" height="17" align="absmiddle" alt=""><img src="https://github.githubassets.com/favicons/favicon-dark.svg#gh-dark-mode-only" width="17" height="17" align="absmiddle" alt=""> Code <sup>Soon</sup></a>
+  &nbsp;·&nbsp;
+  <a href="#release-status"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="18" height="17" align="absmiddle" alt=""> Hugging Face <sup>Soon</sup></a>
+  &nbsp;·&nbsp;
+  <a href="#release-status"><img src="https://img.alicdn.com/imgextra/i4/O1CN01fvt4it25rEZU4Gjso_!!6000000007579-2-tps-128-128.png" width="17" height="17" align="absmiddle" alt=""> ModelScope <sup>Soon</sup></a>
 </p>
 
 </div>
