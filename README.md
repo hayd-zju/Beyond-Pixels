@@ -23,9 +23,6 @@ Zihao Liu, [Xiaolong Shen](https://scholar.google.com/citations?user=vAMMc8EAAAA
   <img src="https://hayd-zju.github.io/media/teaser-figure-original.webp?v=pdf-replacement-20260810" alt="Beyond Pixels teaser" width="100%">
 </div>
 
-> [!IMPORTANT]
-> **Code and models have not been released yet.** This private repository currently serves as the official project placeholder. Release materials will be added after the paper revision is complete.
-
 ## News
 
 - **[2026/08/11]** The official repository is now available. Code and model release are under preparation.
