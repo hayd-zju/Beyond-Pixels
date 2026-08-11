@@ -8,7 +8,14 @@ Zihao Liu, [Xiaolong Shen](https://scholar.google.com/citations?user=vAMMc8EAAAA
 
 <sup>*</sup>Corresponding author
 
-[Project Page](https://hayd-zju.github.io/) · **arXiv (Coming Soon)** · **PDF (Coming Soon)** · **Hugging Face (Coming Soon)** · **ModelScope (Coming Soon)**
+<p>
+  <a href="https://hayd-zju.github.io/"><img src="https://img.shields.io/badge/Project-Page-111827?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Project Page"></a>
+  <a href="#release-status"><img src="https://img.shields.io/badge/arXiv-Coming_Soon-B31B1B?style=for-the-badge&amp;logo=arxiv&amp;logoColor=white" alt="arXiv coming soon"></a>
+  <a href="#release-status"><img src="https://img.shields.io/badge/PDF-Coming_Soon-DC2626?style=for-the-badge&amp;logo=adobeacrobatreader&amp;logoColor=white" alt="PDF coming soon"></a>
+  <a href="#release-status"><img src="https://img.shields.io/badge/Code-Coming_Soon-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Code coming soon"></a>
+  <a href="#release-status"><img src="https://img.shields.io/badge/Hugging_Face-Coming_Soon-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=111827" alt="Hugging Face coming soon"></a>
+  <a href="#release-status"><img src="https://img.shields.io/badge/ModelScope-Coming_Soon-6246EA?style=for-the-badge&amp;logo=alibabacloud&amp;logoColor=white" alt="ModelScope coming soon"></a>
+</p>
 
 </div>
 
