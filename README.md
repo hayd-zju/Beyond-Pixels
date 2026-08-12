@@ -23,7 +23,7 @@ Zihao Liu, [Xiaolong Shen](https://scholar.google.com/citations?user=vAMMc8EAAAA
   <img src="https://hayd-zju.github.io/media/teaser-figure-original.webp?v=pdf-replacement-20260810" alt="Beyond Pixels teaser" width="100%">
 </div>
 
-> **TL;DR:** Beyond Pixels provides a reusable latent-to-4D interface that lifts terminal video DiT latents into explicit dynamic 3D scenes across compatible generation tasks.
+> **TL;DR:** Beyond Pixels provides a unified latent-to-4D interface that lifts terminal video DiT latents into explicit dynamic 3D scenes across compatible generation tasks.
 
 ## 🔥 News
 
