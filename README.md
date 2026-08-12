@@ -29,6 +29,7 @@ Zihao Liu, [Xiaolong Shen](https://scholar.google.com/citations?user=vAMMc8EAAAA
 
 - **[2026/08/12]** 🔥 *Beyond Pixels* currently ranks **1st** on [Hugging Face Daily Papers](https://huggingface.co/papers/2608.10744)! Thank you all for your support and love! 🤗
 - **[2026/08/12]** 🤗 Many thanks to [taesiri](https://huggingface.co/taesiri) for submitting our paper to [Hugging Face Daily Papers](https://huggingface.co/papers/2608.10744)!
+- **[2026/08/11]** 📄 Our paper is now available on [arXiv](https://arxiv.org/abs/2608.10744)!
 - **[2026/08/11]** The official repository and project page are available. Code and model release are under preparation.
 
 ## 🚧 TODO List
