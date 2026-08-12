@@ -10,7 +10,7 @@ Zihao Liu, [Xiaolong Shen](https://scholar.google.com/citations?user=vAMMc8EAAAA
 
 <p>
   <a href="https://hayd-zju.github.io/Beyond-Pixels/"><img src="https://img.shields.io/badge/Project-Page-1F2937?style=flat&amp;logo=googlechrome&amp;logoColor=white" alt="Project Page"></a>
-  <a href="#release-status"><img src="https://img.shields.io/badge/arXiv-Soon-B31B1B?style=flat&amp;logo=arxiv&amp;logoColor=white" alt="arXiv coming soon"></a>
+  <a href="https://arxiv.org/abs/2608.10744"><img src="https://img.shields.io/badge/arXiv-2608.10744-B31B1B?style=flat&amp;logo=arxiv&amp;logoColor=white" alt="arXiv 2608.10744"></a>
   <a href="https://hayd-zju.github.io/Beyond-Pixels/paper.pdf"><img src="https://img.shields.io/badge/%E2%96%A4_PDF-Available-1F2937?style=flat&amp;logoColor=white" alt="PDF"></a>
   <a href="#release-status"><img src="https://img.shields.io/badge/Code-Soon-181717?style=flat&amp;logo=github&amp;logoColor=white" alt="Code coming soon"></a>
   <a href="#release-status"><img src="https://img.shields.io/badge/Hugging_Face-Soon-EAB308?style=flat&amp;logo=huggingface&amp;logoColor=111827" alt="Hugging Face coming soon"></a>
@@ -38,4 +38,14 @@ Zihao Liu, [Xiaolong Shen](https://scholar.google.com/citations?user=vAMMc8EAAAA
 
 ## 📚 Citation
 
-Citation information will be added after the arXiv release.
+```bibtex
+@misc{liu2026pixelsvideopriors4d,
+  title         = {Beyond Pixels: From Video Priors to 4D Worlds},
+  author        = {Zihao Liu and Xiaolong Shen and Zhenglin Zhou and Ruijie Quan and Yi Yang},
+  year          = {2026},
+  eprint        = {2608.10744},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CV},
+  url           = {https://arxiv.org/abs/2608.10744}
+}
+```
