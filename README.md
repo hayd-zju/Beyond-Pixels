@@ -31,7 +31,7 @@ Zihao Liu, [Xiaolong Shen](https://scholar.google.com/citations?user=vAMMc8EAAAA
 
 ## 🚧 TODO List
 
-- [x] [Demos](https://hayd-zju.github.io/Beyond-Pixels/)
+- [x] [Project Page](https://hayd-zju.github.io/Beyond-Pixels/)
 - [ ] Inference Code
 - [ ] Training Code
 - [ ] Pretrained Weights
