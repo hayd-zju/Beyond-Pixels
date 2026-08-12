@@ -40,12 +40,12 @@ Zihao Liu, [Xiaolong Shen](https://scholar.google.com/citations?user=vAMMc8EAAAA
 
 ```bibtex
 @misc{liu2026pixelsvideopriors4d,
-  title         = {Beyond Pixels: From Video Priors to 4D Worlds},
-  author        = {Zihao Liu and Xiaolong Shen and Zhenglin Zhou and Ruijie Quan and Yi Yang},
-  year          = {2026},
-  eprint        = {2608.10744},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.CV},
-  url           = {https://arxiv.org/abs/2608.10744}
+      title={Beyond Pixels: From Video Priors to 4D Worlds}, 
+      author={Zihao Liu and Xiaolong Shen and Zhenglin Zhou and Ruijie Quan and Yi Yang},
+      year={2026},
+      eprint={2608.10744},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2608.10744}, 
 }
 ```
