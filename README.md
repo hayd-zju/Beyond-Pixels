@@ -9,13 +9,13 @@
 <sup>*</sup>Corresponding author
 
 <p>
-  <a href="https://hayd-zju.github.io/Beyond-Pixels/"><img src="https://img.shields.io/badge/Project-Page-3B82F6?style=flat&amp;logo=googlechrome&amp;logoColor=white" alt="Project Page"></a>
-  <a href="https://arxiv.org/abs/2608.10744"><img src="https://img.shields.io/badge/arXiv-2608.10744-EF5B5B?style=flat&amp;logo=arxiv&amp;logoColor=white" alt="arXiv 2608.10744"></a>
-  <a href="https://huggingface.co/papers/2608.10744"><img src="https://img.shields.io/badge/HF_Daily_Papers-%231-F5B942?style=flat&amp;logo=huggingface&amp;logoColor=3B2F13" alt="Hugging Face Daily Papers No. 1"></a>
-  <a href="https://hayd-zju.github.io/Beyond-Pixels/paper.pdf"><img src="https://img.shields.io/badge/%E2%96%A4_PDF-Available-8B5CF6?style=flat&amp;logoColor=white" alt="PDF"></a>
-  <a href="#release-status"><img src="https://img.shields.io/badge/Code-Soon-4B6CB7?style=flat&amp;logo=github&amp;logoColor=white" alt="Code coming soon"></a>
-  <a href="#release-status"><img src="https://img.shields.io/badge/Hugging_Face-Soon-F5B942?style=flat&amp;logo=huggingface&amp;logoColor=3B2F13" alt="Hugging Face coming soon"></a>
-  <a href="#release-status"><img src="https://img.shields.io/badge/ModelScope-Soon-7C6FE3?style=flat&amp;logo=modelscope&amp;logoColor=white" alt="ModelScope coming soon"></a>
+  <a href="https://hayd-zju.github.io/Beyond-Pixels/"><img src="https://img.shields.io/badge/Project-Page-3B82F6?style=flat&amp;labelColor=F8FAFC&amp;logo=googlechrome&amp;logoColor=4285F4" alt="Project Page"></a>
+  <a href="https://arxiv.org/abs/2608.10744"><img src="https://img.shields.io/badge/arXiv-2608.10744-EF5B5B?style=flat&amp;labelColor=F8FAFC&amp;logo=arxiv&amp;logoColor=B31B1B" alt="arXiv 2608.10744"></a>
+  <a href="https://huggingface.co/papers/2608.10744"><img src="https://img.shields.io/badge/HF_Daily_Papers-%231-F5B942?style=flat&amp;labelColor=F8FAFC&amp;logo=huggingface&amp;logoColor=FFD21E" alt="Hugging Face Daily Papers No. 1"></a>
+  <a href="https://hayd-zju.github.io/Beyond-Pixels/paper.pdf"><img src="https://img.shields.io/badge/PDF-Available-8B5CF6?style=flat&amp;labelColor=F8FAFC&amp;logo=adobeacrobatreader&amp;logoColor=EC1C24" alt="PDF"></a>
+  <a href="#release-status"><img src="https://img.shields.io/badge/Code-Soon-4B6CB7?style=flat&amp;labelColor=F8FAFC&amp;logo=github&amp;logoColor=181717" alt="Code coming soon"></a>
+  <a href="#release-status"><img src="https://img.shields.io/badge/Hugging_Face-Soon-F5B942?style=flat&amp;labelColor=F8FAFC&amp;logo=huggingface&amp;logoColor=FFD21E" alt="Hugging Face coming soon"></a>
+  <a href="#release-status"><img src="https://img.shields.io/badge/ModelScope-Soon-7C6FE3?style=flat&amp;labelColor=F8FAFC&amp;logo=modelscope&amp;logoColor=6246EA" alt="ModelScope coming soon"></a>
 </p>
 
 </div>
