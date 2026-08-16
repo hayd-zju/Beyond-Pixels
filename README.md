@@ -9,7 +9,7 @@
 <sup>*</sup>Corresponding author
 
 <p>
-  <a href="https://hayd-zju.github.io/Beyond-Pixels/"><img src="https://img.shields.io/badge/Project-Page-D97757?style=flat&amp;logo=googlechrome&amp;logoColor=white" alt="Project Page"></a>
+  <a href="https://hayd-zju.github.io/Beyond-Pixels/"><img src="https://img.shields.io/badge/Project-Page-2563EB?style=flat&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGRlZnM%2BPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMiIgeTE9IjIiIHgyPSIyMiIgeTI9IjIyIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI%2BPHN0b3Agc3RvcC1jb2xvcj0iIzI1NjNlYiIvPjxzdG9wIG9mZnNldD0iLjU0IiBzdG9wLWNvbG9yPSIjN2MzYWVkIi8%2BPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjZjk3MzE2Ii8%2BPC9saW5lYXJHcmFkaWVudD48L2RlZnM%2BPHBhdGggZmlsbD0idXJsKCNnKSIgZD0iTTEyIDEuNWMuOSA1LjkgNC42IDkuNiAxMC41IDEwLjUtNS45LjktOS42IDQuNi0xMC41IDEwLjVDMTEuMSAxNi42IDcuNCAxMi45IDEuNSAxMiA3LjQgMTEuMSAxMS4xIDcuNCAxMiAxLjVaIi8%2BPGNpcmNsZSBjeD0iMTkiIGN5PSI1IiByPSIyIiBmaWxsPSIjZjk3MzE2Ii8%2BPC9zdmc%2B" alt="Project Page"></a>
   <a href="https://arxiv.org/abs/2608.10744"><img src="https://img.shields.io/badge/arXiv-2608.10744-B31B1B?style=flat&amp;logo=arxiv&amp;logoColor=white" alt="arXiv 2608.10744"></a>
   <a href="https://huggingface.co/papers/2608.10744"><img src="https://img.shields.io/badge/HF_Daily_Papers-%231-FFD21E?style=flat&amp;logo=huggingface&amp;logoColor=FFD21E" alt="Hugging Face Daily Papers No. 1"></a>
   <a href="https://hayd-zju.github.io/Beyond-Pixels/paper.pdf"><img src="https://img.shields.io/badge/PDF-Available-FF8C42?style=flat&amp;logo=adobeacrobatreader&amp;logoColor=white" alt="PDF"></a>
