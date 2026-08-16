@@ -11,6 +11,7 @@
 <p>
   <a href="https://hayd-zju.github.io/Beyond-Pixels/"><img src="https://img.shields.io/badge/Project-Page-1F2937?style=flat&amp;logo=googlechrome&amp;logoColor=white" alt="Project Page"></a>
   <a href="https://arxiv.org/abs/2608.10744"><img src="https://img.shields.io/badge/arXiv-2608.10744-B31B1B?style=flat&amp;logo=arxiv&amp;logoColor=white" alt="arXiv 2608.10744"></a>
+  <a href="https://huggingface.co/papers/2608.10744"><img src="https://img.shields.io/badge/HF_Daily_Papers-%231-FFD21E?style=flat&amp;logo=huggingface&amp;logoColor=111827" alt="Hugging Face Daily Papers No. 1"></a>
   <a href="https://hayd-zju.github.io/Beyond-Pixels/paper.pdf"><img src="https://img.shields.io/badge/%E2%96%A4_PDF-Available-1F2937?style=flat&amp;logoColor=white" alt="PDF"></a>
   <a href="#release-status"><img src="https://img.shields.io/badge/Code-Soon-181717?style=flat&amp;logo=github&amp;logoColor=white" alt="Code coming soon"></a>
   <a href="#release-status"><img src="https://img.shields.io/badge/Hugging_Face-Soon-EAB308?style=flat&amp;logo=huggingface&amp;logoColor=111827" alt="Hugging Face coming soon"></a>
