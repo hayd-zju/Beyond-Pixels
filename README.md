@@ -2,7 +2,7 @@
 
 # Beyond Pixels: From Video Priors to 4D Worlds
 
-Zihao Liu, [Xiaolong Shen](https://scholar.google.com/citations?user=vAMMc8EAAAAJ), [Zhenglin Zhou](https://scholar.google.com/citations?user=6v7tOfEAAAAJ), [Ruijie Quan](https://scholar.google.com/citations?user=WKLRPsAAAAAJ), [Yi Yang](https://scholar.google.com/citations?user=RMSuNFwAAAAJ)<sup>*</sup>
+[Zihao Liu](https://scholar.google.com/citations?user=2q-92DsAAAAJ), [Xiaolong Shen](https://scholar.google.com/citations?user=vAMMc8EAAAAJ), [Zhenglin Zhou](https://scholar.google.com/citations?user=6v7tOfEAAAAJ), [Ruijie Quan](https://scholar.google.com/citations?user=WKLRPsAAAAAJ), [Yi Yang](https://scholar.google.com/citations?user=RMSuNFwAAAAJ)<sup>*</sup>
 
 **ReLER, CCAI, Zhejiang University**
 
